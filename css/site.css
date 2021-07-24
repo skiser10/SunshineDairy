@@ -19,3 +19,8 @@ main>.container {
     color: red;
     font-weight: bolder;
 }
+
+.shack_pic {
+    width: 500px;
+    height: 375px;
+}
